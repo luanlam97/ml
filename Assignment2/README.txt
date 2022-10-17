@@ -16,5 +16,5 @@ You need the below libraries/packages to start:
 *mlrose
 	pip install mlrose
 
-code can obtained from https://github.com/luanlam97/ml
+code can obtained from https://github.com/luanlam97/ml/tree/main/Assignment2
 Simply run main.ipynb from top down if anything broken
